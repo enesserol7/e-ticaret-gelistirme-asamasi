@@ -1,0 +1,12 @@
+<div role="tabpanel" class="tab-pane fade" id="tab-2">
+	<div class="row">
+		<div class="form-group col-md-12">
+			<label>Hakkımızda</label>
+			<textarea name="about_us" class="m-0" data-plugin="summernote" data-options="{height: 250}"></textarea>
+		</div>
+		<div class="form-group col-md-12">
+			<label>Slogan</label>
+			<input class="form-control" placeholder="Slogan" name="slogan">
+		</div>
+	</div>
+</div>
